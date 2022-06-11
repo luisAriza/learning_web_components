@@ -1,0 +1,20 @@
+{
+  "name": "curso_web_components",
+  "version": "1.0.0",
+  "description": "Curso de Web Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisAriza/learning_web_components.git"
+  },
+  "keywords": [],
+  "author": "Luis Ariza <luismanuelariza@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisAriza/learning_web_components/issues"
+  },
+  "homepage": "https://github.com/luisAriza/learning_web_components#readme"
+}
